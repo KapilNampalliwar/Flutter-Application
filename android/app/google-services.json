@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577187211054",
+    "project_id": "my-uihut",
+    "storage_bucket": "my-uihut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577187211054:android:c7dea44ec5d2f31705bcbf",
+        "android_client_info": {
+          "package_name": "com.example.ui_hut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577187211054-ulsh26nirebcn1tqh0mquda4mbrejqi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3Xhk1Pk3vEJE-RwKxTL6wOskk8nyVrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577187211054-ulsh26nirebcn1tqh0mquda4mbrejqi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
